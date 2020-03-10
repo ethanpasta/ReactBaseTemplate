@@ -4,6 +4,8 @@
   "description": "![react-logo](https://cdn2.iconfinder.com/data/icons/designer-skills/128/react-512.png)",
   "main": "index.js",
   "scripts": {
+    "format": "prettier --write \"src/**/*.{js,jsx}\"",
+    "lint": "eslint \"src/**/*.{js,jsx}\" --quiet",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
