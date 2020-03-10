@@ -1,0 +1,20 @@
+{
+  "name": "react-base-template",
+  "version": "1.0.0",
+  "description": "![react-logo](https://cdn2.iconfinder.com/data/icons/designer-skills/128/react-512.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethanpasta/ReactBaseTemplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ethanpasta/ReactBaseTemplate/issues"
+  },
+  "homepage": "https://github.com/ethanpasta/ReactBaseTemplate#readme"
+}
