@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/ethanpasta/ReactBaseTemplate/issues"
   },
-  "homepage": "https://github.com/ethanpasta/ReactBaseTemplate#readme"
+  "homepage": "https://github.com/ethanpasta/ReactBaseTemplate#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  }
 }
