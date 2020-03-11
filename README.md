@@ -1,9 +1,9 @@
 # React App Template 
-![react-logo](https://cdn2.iconfinder.com/data/icons/designer-skills/128/react-512.png)
+![react-logo](https://miro.medium.com/max/256/1*gGh9I9ju9w4lXhmWoG2fXA.png)
 
 ## Step 1 - Project Initialization
 
-Run `npm init` (with `-y` for no questions). This creates a `package.json` file - a very important file for all node applications.
+Run `npm init` (with `-y` for no questions). This creates a `package.json` file.
 
 ## Step 2 - Code Quality
 
