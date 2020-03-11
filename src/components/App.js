@@ -1,10 +1,11 @@
 import React from 'react';
+import Rainbow from './Rainbow';
 import '../styles/App.css';
 
 const App = () => {
     return (
         <div className="App">
-            <h1 className="title">Your React App!</h1>
+            <Rainbow text="REACT APP" />
         </div>
     )
 };
