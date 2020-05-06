@@ -23,7 +23,7 @@ This way, all you need to do is run `npm run format`.
 
 On top of making sure your code is pretty, we have to make sure it follows some standard code styles. ESLint also has capabilities of formating code (like prettier), but prettier is much more powerful so we're not going to use it.
 
-Run `npm install -D eslint esling-config-prettier`.
+Run `npm install -D eslint eslint-config-prettier`.
 
 There are different types of configurations for ESLint, so we must create a `.eslint.js` file to explicity tell ESLint what we want.
 Here's a basic and recommended one:
